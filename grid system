@@ -1,0 +1,79 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+     <!-- Compiled and minified CSS -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+     <!-- Compiled and minified JavaScript -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <title>Materalize CSS</title>
+
+</head>
+<body>
+    
+    <div class="container">
+      
+        <h4>grids</h4>
+       <!--first create a class named row-->
+
+       <div class="row">
+           <!-- Grid has 12 width -->
+           <div class="col s3">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s3">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s3">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s3">content</div>   <!--use alt+shift+down to copy elements-->
+           <!--use alt+shift+down to copy elements-->
+          
+
+        
+           </div>
+
+       <div class="row">
+           <!-- Grid has 12 width -->
+           <div class="col s6 m3">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s6 m3">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s6 m3">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s6 m3">content</div>   <!--use alt+shift+down to copy elements-->
+           <!--use alt+shift+down to copy elements-->
+          
+          
+         
+           </div>
+       <div class="row">
+           <!-- Grid has 12 width -->
+           <div class="col s12 m6 l4">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s12 m6 l4">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s12 m6 l4">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s12 m6 l4">content</div>   <!--use alt+shift+down to copy elements-->
+           <!--use alt+shift+down to copy elements-->
+          <!--use alt+shift+select to multiple things and change-->
+          
+         
+           </div>
+       <div class="row">
+           <!-- Grid has 12 width -->
+           <div class="col s6 m3 l4 xl2">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s6 m3 l4 xl2">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s6 m3 l4 xl2">content</div>   <!--use alt+shift+down to copy elements-->
+           <div class="col s6 m3 l4 xl2">content</div>   <!--use alt+shift+down to copy elements-->
+           <!--use alt+shift+down to copy elements-->
+          
+          
+         
+           </div>
+       </div>
+
+    </div>
+
+    
+
+
+
+
+    
+</body>
+</html>
